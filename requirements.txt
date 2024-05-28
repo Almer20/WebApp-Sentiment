@@ -5,3 +5,4 @@ nltk
 joblib
 plotly
 pymysql
+st_pages
